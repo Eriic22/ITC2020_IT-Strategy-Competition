@@ -1,1 +1,3 @@
-# ITC2020_IT-Strategy-Competition-
+#Information Technology Competition - IT Strategy (2nd Place)
+#
+#
